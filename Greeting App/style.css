@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(117, 206, 202);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#entry{
+    font-size: large;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+.all{
+    text-align: center;
+    margin: 40px;
+    padding: 10px;
+}
+#txt{
+    color: rgb(1, 5, 32);
+    margin-top: 20px;
+}
+.btn{
+    border-radius: 12px;
+    border-color: crimson;
+    background-color: black;
+    color: rgb(252, 234, 32);
+    cursor: pointer;
+    margin: 20px;
+    font-size: 20px;
+}
